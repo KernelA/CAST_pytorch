@@ -1,0 +1,7 @@
+*.zip
+*.pth
+CAST_model/
+checkpoints/
+__pycache__/
+
+*.jpg
